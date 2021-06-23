@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skillrank/static/css/main.fb22ff7e.chunk.css",
+    "main.js": "/skillrank/static/js/main.722105af.chunk.js",
+    "main.js.map": "/skillrank/static/js/main.722105af.chunk.js.map",
+    "runtime-main.js": "/skillrank/static/js/runtime-main.b5bc831e.js",
+    "runtime-main.js.map": "/skillrank/static/js/runtime-main.b5bc831e.js.map",
+    "static/js/2.f77ecf8b.chunk.js": "/skillrank/static/js/2.f77ecf8b.chunk.js",
+    "static/js/2.f77ecf8b.chunk.js.map": "/skillrank/static/js/2.f77ecf8b.chunk.js.map",
+    "index.html": "/skillrank/index.html",
+    "static/css/main.fb22ff7e.chunk.css.map": "/skillrank/static/css/main.fb22ff7e.chunk.css.map",
+    "static/js/2.f77ecf8b.chunk.js.LICENSE.txt": "/skillrank/static/js/2.f77ecf8b.chunk.js.LICENSE.txt",
+    "static/media/skills.b8c40827.svg": "/skillrank/static/media/skills.b8c40827.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5bc831e.js",
+    "static/js/2.f77ecf8b.chunk.js",
+    "static/css/main.fb22ff7e.chunk.css",
+    "static/js/main.722105af.chunk.js"
+  ]
+}
